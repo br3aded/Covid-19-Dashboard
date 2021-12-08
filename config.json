@@ -1,0 +1,11 @@
+{
+    "values":{
+    "apikey": "<API key>",
+    "terms":"Covid COVID-19 coronavirus",
+    "location":"Exeter",
+    "nationareaname":"England"
+    },
+    "filepaths":{
+    "templatefolder":"./templates"
+    }
+}
